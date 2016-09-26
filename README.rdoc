@@ -1,3 +1,0 @@
-#Connecticon
-
-Social Media application created using laravel 5.2
